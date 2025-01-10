@@ -33,7 +33,7 @@ var config = {
         "主角登场": "./imgs/2.jpg",
         "送礼物": "./imgs/3.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
-        "这是我认识你的": "./imgs/4.png",
+        "这是我认识你的": "./imgs/4.jpg",
         "第一个生日！": "./imgs/5.jpg",
         "这段时间以来，我见过你": "./imgs/yangzi.jpeg",
         "毕业的样子": "./imgs/6.jpg",
